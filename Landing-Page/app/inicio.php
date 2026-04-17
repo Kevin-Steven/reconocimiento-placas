@@ -125,7 +125,7 @@ unset($_SESSION['error_placa']);
                 <h1 class="font-bold tracking-[-0.05em] text-white drop-shadow-[0_0_40px_rgba(255,255,255,0.12)] leading-[0.9] text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-[110px]">
                     Control de acceso
                     <br class="hidden sm:block">
-                    <span class="bg-gradient-to-r from-zinc-100 via-zinc-300 to-zinc-100 bg-clip-text text-transparent">
+                    <span class="bg-gradient-to-b from-white via-zinc-200 to-zinc-700 bg-clip-text text-transparent px-1">
                         vehicular inteligente
                     </span>
                 </h1>
