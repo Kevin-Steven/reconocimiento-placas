@@ -1,9 +1,9 @@
 <?php
 $host = "localhost"; 
 $usuario = "root";
-$contrasena = "";
+$contrasena = "root12345";
 $base_datos = "placas_db";
-$puerto = 3308; 
+$puerto = 3306; 
 
 $conn = new mysqli($host, $usuario, $contrasena, $base_datos, $puerto);
 
